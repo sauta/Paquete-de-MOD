@@ -15,7 +15,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
  * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
 
-===========================================================================
+============================
 ## Luncher:
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
 ## Consejos:
@@ -26,7 +26,6 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
 ### Lista de MODS
 
-* Link
 ----------------------
 | Nombre | Link de la descripcion |
 | :-------- | :------- |
