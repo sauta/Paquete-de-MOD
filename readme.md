@@ -5,7 +5,8 @@
 ------------------------------
 Ir a Code/codigo y descargar el .ZIP
 
-<img src="Como decargar.png">
+<img src="Como decargar.png"></img>
+
 ==============================
 ## Iniciar Forge e instalar Mods
 ------------------------------
