@@ -53,9 +53,9 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
    * https://www.curseforge.com/minecraft/mc-mods/serene-seasons
 
    * https://www.curseforge.com/minecraft/mc-mods/create 
-      * ***necesita*** https://www.curseforge.com/minecraft/mc-mods/flywheel
+      * ***necesita:*** https://www.curseforge.com/minecraft/mc-mods/flywheel
 
    * https://www.curseforge.com/minecraft/mc-mods/blood-magic 
-      * ***necesita*** https://www.curseforge.com/minecraft/mc-mods/patchouli
+      * ***necesita:*** https://www.curseforge.com/minecraft/mc-mods/patchouli
 
    * https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia
