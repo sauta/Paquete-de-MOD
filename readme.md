@@ -1,27 +1,26 @@
 # Server
- IP: 160.20.247.74:25707
-===========================
+ ## IP: 160.20.247.74:25707
 ## Descargar
 ------------------------------
 Ir a Code/codigo y descargar el .ZIP
 
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
-
-==============================
 ## Iniciar Forge e instalar Mods
 ------------------------------
  * Ejecutar ```forge-1.18.2-40.1.68-installer ```
 
- * Luego mover los archivos de la carpeta Mods 
+ * Luego mover los archivos de la carpeta ```/Mods```
 
- * para eso apretas ```wind + R``` y escribes ```%appdata%```
+ * Para eso apretas ```wind + R``` y escribes ```%appdata%```
 
- * te dirijes a la carpeta ```.minecraft``` y arrastras los Mods a la carpeta ```/mods```.
+ * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
 
 ===========================================================================
+## Luncher:
+Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
 ## Consejos:
 
-Si no puedes ejecutar los .JAR fijate que tengas descargado el JDK de Java
+Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java
 
 Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
@@ -29,31 +28,34 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
 * Link
 ----------------------
-   * https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3853078
-   * https://www.curseforge.com/minecraft/mc-mods/citadel/files/3783096
-   * https://www.curseforge.com/minecraft/mc-mods/structory/files/3846037
-   * https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/files/3780437
-   * https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/3907319
-   * https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/3907340
-   * https://www.curseforge.com/minecraft/mc-mods/conquest-reforged/files/3854053
-   * https://www.curseforge.com/minecraft/mc-mods/conquest-reforged-recipes/files/3899741
-   * https://www.curseforge.com/minecraft/mc-mods/jei/files/3885885
-   * https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539
-   * https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288
-   * https://www.curseforge.com/minecraft/mc-mods/the-wild-update/files
-   * https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3827434
-   * https://www.curseforge.com/minecraft/mc-mods/terrablender/files/3816497
-   * https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3820310
-   * https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge/files/3831340
-   * https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons/files/3914308
-   * https://www.curseforge.com/minecraft/mc-mods/waystones/files/3830849
-
+| Nombre | Link de la descripcion |
+| :-------- | :-------: |
+|alexs-mobs| * https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
+|citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
+|structory| https://www.curseforge.com/minecraft/mc-mods/structory|
+|when-dungeons-arise/| https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/|
+|xaeros-minimap| https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|
+|xaeros-world-map| https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|
+|conquest-reforged| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged|
+|conquest-reforged-recipes| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged-recipes|
+|jei| https://www.curseforge.com/minecraft/mc-mods/jei|
+|starlight-forge| https://www.curseforge.com/minecraft/mc-mods/starlight-forge|
+|ferritecore| https://www.curseforge.com/minecraft/mc-mods/ferritecore|
+|the-wild-update| https://www.curseforge.com/minecraft/mc-mods/the-wild-update|
+|biomes-o-plenty| https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty|
+|terrablender| https://www.curseforge.com/minecraft/mc-mods/terrablender|
+|repurposed-structures| https://www.curseforge.com/minecraft/mc-mods/repurposed-structures|
+|additional-additions-forge| https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge|
+|epic-knights-armor-and-weapons| https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons|
+|waystones| https://www.curseforge.com/minecraft/mc-mods/waystones|
 ### extra mods
 
-   * https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/3804257
+   * https://www.curseforge.com/minecraft/mc-mods/serene-seasons
 
-   * https://www.curseforge.com/minecraft/mc-mods/create/files *necesita* https://www.curseforge.com/minecraft/mc-mods/flywheel/files
+   * https://www.curseforge.com/minecraft/mc-mods/create 
+      * ***necesita*** https://www.curseforge.com/minecraft/mc-mods/flywheel
 
-   * https://www.curseforge.com/minecraft/mc-mods/blood-magic/files/3926937 *necesita* https://www.curseforge.com/minecraft/mc-mods/patchouli/files
+   * https://www.curseforge.com/minecraft/mc-mods/blood-magic 
+      * ***necesita*** https://www.curseforge.com/minecraft/mc-mods/patchouli
 
-   * https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia/files/3933374
+   * https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia
