@@ -3,13 +3,13 @@
 ===========================
 ## Iniciar Forge e instalar Mods
 ------------------------------
- * Ejecutar forge-1.18.2-40.1.68-installer 
+ * Ejecutar ```forge-1.18.2-40.1.68-installer ```
 
  * Luego mover los archivos de la carpeta Mods 
 
- * para eso apretas wind + R y escribes %appdata%
+ * para eso apretas ```wind + R``` y escribes ```%appdata%```
 
- * te dirijes a la carpeta .minecraft y arrastras los mods a la carpeta mods.
+ * te dirijes a la carpeta ```.minecraft``` y arrastras los Mods a la carpeta ```mods```.
 
 ===========================================================================
 ## Consejos:
