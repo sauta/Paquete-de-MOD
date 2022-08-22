@@ -29,8 +29,8 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 * Link
 ----------------------
 | Nombre | Link de la descripcion |
-| :-------- | :-------: |
-|alexs-mobs| * https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
+| :-------- | :------- |
+|alexs-mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
 |structory| https://www.curseforge.com/minecraft/mc-mods/structory|
 |when-dungeons-arise/| https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/|
