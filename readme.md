@@ -9,7 +9,7 @@
 
  * para eso apretas ```wind + R``` y escribes ```%appdata%```
 
- * te dirijes a la carpeta ```.minecraft``` y arrastras los Mods a la carpeta ```mods```.
+ * te dirijes a la carpeta ```.minecraft``` y arrastras los Mods a la carpeta ```/mods```.
 
 ===========================================================================
 ## Consejos:
