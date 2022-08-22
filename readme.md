@@ -1,18 +1,18 @@
 # Server
-## IP: 160.20.247.74:25707
-===========================================================================
-Iniciar Forge
----------------
+ IP: 160.20.247.74:25707
+===========================
+## Iniciar Forge e instalar Mods
+------------------------------
  * Ejecutar forge-1.18.2-40.1.68-installer 
 
-# Luego mover los archivos de la carpeta Mods 
+ * Luego mover los archivos de la carpeta Mods 
 
-para eso apretas wind + R y escribes %appdata%
+ * para eso apretas wind + R y escribes %appdata%
 
-te dirijes a la carpeta .minecraft y arrastras los mods a la carpeta mods.
+ * te dirijes a la carpeta .minecraft y arrastras los mods a la carpeta mods.
 
 ===========================================================================
-# Consejos:
+## Consejos:
 
 Si no puedes ejecutar los .JAR fijate que tengas descargado el JDK de Java
 
