@@ -1,4 +1,4 @@
-# Server TULAT 👺 y NOXIN 🦀
+# Server TULAT 👺 y NOXING 🦀
  ## IP: 160.20.247.74:25707
 ## Descargar
 ------------------------------
