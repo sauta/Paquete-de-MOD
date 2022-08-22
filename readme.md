@@ -5,7 +5,7 @@
 ------------------------------
 Ir a Code/codigo y descargar el .ZIP
 
-<img src="Como decargar.png"></img>
+https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
 ==============================
 ## Iniciar Forge e instalar Mods
