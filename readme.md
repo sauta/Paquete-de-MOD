@@ -11,7 +11,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
  * Copiar archivos de la carpeta ```/Mods``` que acabas de desargar.
 
- * Para eso apretas  ```wind + R``` y escribes ```%appdata%```
+ * Luego apretar el atajo de teclado  ```wind + R``` y escribes ```%appdata%```
 
  * Te dirijes a la carpeta ```.minecraft``` y pega los archivos copiados a la carpeta ```.minecraft/mods```.
 
