@@ -7,11 +7,11 @@ Ir a Code/codigo y descargar el .ZIP
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ## Iniciar Forge e instalar Mods 🤙
 ------------------------------
- * Ejecutar ```forge-1.18.2-40.1.68-installer ```
+ * Ejecutar ```forge-1.18.2-40.1.68-installer ```.
 
- * Luego mover los archivos de la carpeta ```/Mods```
+ * Luego mover los archivos de la carpeta ```/Mods```.
 
- * Para eso apretas ```wind + R``` y escribes ```%appdata%```
+ * Para eso apretas ```wind + R``` y escribes ```%appdata%```.
 
  * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
 
