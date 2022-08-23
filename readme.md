@@ -16,20 +16,20 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
  * Te dirijes a la carpeta ```.minecraft``` y pega los archivos copiados a la carpeta ```.minecraft/mods```.
 
- * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y remplazalos por los nuevos.
+ * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y reemplazalos por los nuevos.
 
 ------------------------------
 ## Poner Shaders 🤙
 -------------------------------
 ## Launcher 🧰:
-Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
+Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Launcher de Minecraft.
 ## Consejos 💖:
 
 Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java
 
 Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
-### Lista de MODS
+## Lista de MODS
 
 Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando esta lista todos los día.
 
