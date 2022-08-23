@@ -8,7 +8,7 @@ Ir a Code/Codigo y descargar el .ZIP
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ## Iniciar Forge e instalar Mods 🤙
 ------------------------------
- * Ejecutar ```forge-1.18.2-40.1.68-installer ``` e instalar Install Client
+ * Ejecutar ```forge-1.18.2-40.1.68-installer ``` y seleccionar **Install Client**
 
  * Copiar archivos de la carpeta ```/Mods``` que acabas de desargar.
 
@@ -19,6 +19,8 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
  * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y remplazalos por los nuevos.
 
 ------------------------------
+## Poner Shaders 🤙
+-------------------------------
 ## Launcher 🧰:
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
 ## Consejos 💖:
