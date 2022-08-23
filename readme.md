@@ -9,7 +9,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ------------------------------
  * Ejecutar ```forge-1.18.2-40.1.68-installer ``` e instalar Install Client
 
- * Copiar archivos de la carpeta ```/Mods``` descargados
+ * Copiar archivos de la carpeta ```/Mods``` que acabas de desargar.
 
  * Para eso apretas  ```wind + R``` y escribes ```%appdata%```
 
