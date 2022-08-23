@@ -15,6 +15,8 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
  * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
 
+ * Si ya tienes archivos dentro de la carpeta ```/mods``` elimialos y remplazalos por los nuevos.
+
 ------------------------------
 ## Luncher:
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
