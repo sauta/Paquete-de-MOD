@@ -31,18 +31,18 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 ----------------------
 | Nombre | Link de la descripcion |
 | :-------- | :------- |
-|alexs-mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
-|citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
-|structory| https://www.curseforge.com/minecraft/mc-mods/structory|
-|when-dungeons-arise/| https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/|
-|xaeros-minimap| https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|
-|xaeros-world-map| https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|
-|conquest-reforged| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged|
-|conquest-reforged-recipes| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged-recipes|
-|jei| https://www.curseforge.com/minecraft/mc-mods/jei|
-|starlight-forge| https://www.curseforge.com/minecraft/mc-mods/starlight-forge|
-|ferritecore| https://www.curseforge.com/minecraft/mc-mods/ferritecore|
-|the-wild-update| https://www.curseforge.com/minecraft/mc-mods/the-wild-update|
+|Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
+|Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
+|Structory| https://www.curseforge.com/minecraft/mc-mods/structory|
+|When Dungeons Arise - Forge!| https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/|
+|Xaero's Minimap| https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap|
+|Xaero's World Map| https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map|
+|Conquest Reforged| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged|
+|Conquest Reforged Recipes| https://www.curseforge.com/minecraft/mc-mods/conquest-reforged-recipes|
+|Just Enough Items (JEI)| https://www.curseforge.com/minecraft/mc-mods/jei|
+|Starlight (Forge)| https://www.curseforge.com/minecraft/mc-mods/starlight-forge|
+|FerriteCore (Forge)| https://www.curseforge.com/minecraft/mc-mods/ferritecore|
+|The Wild Update 1.19 [FORGE]| https://www.curseforge.com/minecraft/mc-mods/the-wild-update|
 |biomes-o-plenty| https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty|
 |terrablender| https://www.curseforge.com/minecraft/mc-mods/terrablender|
 |repurposed-structures| https://www.curseforge.com/minecraft/mc-mods/repurposed-structures|
