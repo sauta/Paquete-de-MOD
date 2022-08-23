@@ -30,8 +30,9 @@ Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java
 Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
 ### Lista de MODS
+
 Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando esta lista todos los día.
-----------------------
+
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
 | :-------- | :-------- |
 |Inventory Sorter **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
