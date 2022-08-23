@@ -29,7 +29,7 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 ### Lista de MODS
 
 ----------------------
-| Nombre | Link de la descripcion |
+# | # Nombre | ***Link de la descripcion*** |
 | :-------- | :------- |
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
@@ -49,14 +49,14 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 |Additional Additions Forge| https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge|
 |Epic Knights: Shields, Armor and Weapons | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons|
 |Waystones| https://www.curseforge.com/minecraft/mc-mods/waystones|
-### extra mods
+### Extra mods
 
    * https://www.curseforge.com/minecraft/mc-mods/serene-seasons
 
    * https://www.curseforge.com/minecraft/mc-mods/create 
-      * ***necesita:*** https://www.curseforge.com/minecraft/mc-mods/flywheel
+      * ***Necesita:*** https://www.curseforge.com/minecraft/mc-mods/flywheel
 
    * https://www.curseforge.com/minecraft/mc-mods/blood-magic 
-      * ***necesita:*** https://www.curseforge.com/minecraft/mc-mods/patchouli
+      * ***Necesita:*** https://www.curseforge.com/minecraft/mc-mods/patchouli
 
    * https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia
