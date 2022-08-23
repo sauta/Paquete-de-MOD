@@ -9,11 +9,11 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ------------------------------
  * Ejecutar ```forge-1.18.2-40.1.68-installer ``` e instalar Install Client
 
- * Luego mover los archivos de la carpeta ```/Mods```
+ * Copiar archivos de la carpeta ```/Mods``` descargados
 
- * Para eso apretas ```wind + R``` y escribes ```%appdata%```
+ * Para eso apretas  ```wind + R``` y escribes ```%appdata%```
 
- * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
+ * Te dirijes a la carpeta ```.minecraft``` y pega los archivos copiados a la carpeta ```.minecraft/mods```.
 
  * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y remplazalos por los nuevos.
 
