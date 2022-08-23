@@ -1,6 +1,6 @@
 # Server TULAT 👺 y NOXING 🦀
  ## IP: 160.20.247.74:25707
-## Descargar
+## Descargar 📥
 ------------------------------
 Ir a Code/codigo y descargar el .ZIP
 
