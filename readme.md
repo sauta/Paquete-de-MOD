@@ -18,7 +18,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
  * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y remplazalos por los nuevos.
 
 ------------------------------
-## Luncher 🧰:
+## Launcher 🧰:
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Luncher de Minecraft.
 ## Consejos 💖:
 
