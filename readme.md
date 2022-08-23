@@ -29,7 +29,7 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 ### Lista de MODS
 
 ----------------------
-# | # Nombre | ***Link de la descripcion*** |
+| ***Nombre*** | ***Link de la descripcion*** |
 | :-------- | :------- |
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
