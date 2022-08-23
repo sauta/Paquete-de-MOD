@@ -2,7 +2,7 @@
  ## IP: 160.20.247.74:25707
 ## Descargar 📥
 ------------------------------
-Ir a Code/codigo y descargar el .ZIP
+Ir a Code/Codigo y descargar el .ZIP
 
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ## Iniciar Forge e instalar Mods 🤙
