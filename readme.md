@@ -43,12 +43,12 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 |Starlight (Forge)| https://www.curseforge.com/minecraft/mc-mods/starlight-forge|
 |FerriteCore (Forge)| https://www.curseforge.com/minecraft/mc-mods/ferritecore|
 |The Wild Update 1.19 [FORGE]| https://www.curseforge.com/minecraft/mc-mods/the-wild-update|
-|biomes-o-plenty| https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty|
-|terrablender| https://www.curseforge.com/minecraft/mc-mods/terrablender|
-|repurposed-structures| https://www.curseforge.com/minecraft/mc-mods/repurposed-structures|
-|additional-additions-forge| https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge|
-|epic-knights-armor-and-weapons| https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons|
-|waystones| https://www.curseforge.com/minecraft/mc-mods/waystones|
+|Biomes O' Plenty| https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty|
+|TerraBlender (Forge)| https://www.curseforge.com/minecraft/mc-mods/terrablender|
+|Repurposed Structures (Forge)| https://www.curseforge.com/minecraft/mc-mods/repurposed-structures|
+|Additional Additions Forge| https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge|
+|Epic Knights: Shields, Armor and Weapons | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons|
+|Waystones| https://www.curseforge.com/minecraft/mc-mods/waystones|
 ### extra mods
 
    * https://www.curseforge.com/minecraft/mc-mods/serene-seasons
