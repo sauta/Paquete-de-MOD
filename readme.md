@@ -33,8 +33,9 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando esta lista todos los día.
 ----------------------
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
-| :-------- | :------- |
-|Inventory Sorter <label style="color: #FF0000">**NEW MODS ❗** </label> |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
+| :-------- | -------- |
+|Inventory Sorter **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
+-----------
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
 |Structory| https://www.curseforge.com/minecraft/mc-mods/structory|
