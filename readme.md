@@ -7,7 +7,7 @@ Ir a Code/Codigo y descargar el .ZIP
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ## Iniciar Forge e instalar Mods 🤙
 ------------------------------
- * Ejecutar ```forge-1.18.2-40.1.68-installer ```
+ * Ejecutar ```forge-1.18.2-40.1.68-installer ``` e instalar Install Client
 
  * Luego mover los archivos de la carpeta ```/Mods```
 
