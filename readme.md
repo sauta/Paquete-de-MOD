@@ -34,7 +34,7 @@ Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando
 ----------------------
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
 | :-------- | :------- |
-|Inventory Sorter <label style="color: red">**NEW MODS ❗** </label> |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
+|Inventory Sorter <label style="color: #FF0000">**NEW MODS ❗** </label> |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
 |Structory| https://www.curseforge.com/minecraft/mc-mods/structory|
