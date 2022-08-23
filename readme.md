@@ -15,7 +15,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 
  * Te dirijes a la carpeta ```.minecraft``` y arrastras los archivos ```.jar``` a la carpeta ```/mods```.
 
- * Si ya tienes archivos dentro de la carpeta ```/mods``` elimialos y remplazalos por los nuevos.
+ * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y remplazalos por los nuevos.
 
 ------------------------------
 ## Luncher:
