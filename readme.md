@@ -30,10 +30,11 @@ Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java
 Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
 ### Lista de MODS
-
+Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando esta lista todos los día.
 ----------------------
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
 | :-------- | :------- |
+|***NEW MODS*** |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
 |Structory| https://www.curseforge.com/minecraft/mc-mods/structory|
@@ -52,14 +53,14 @@ Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 |Additional Additions Forge| https://www.curseforge.com/minecraft/mc-mods/additional-additions-forge|
 |Epic Knights: Shields, Armor and Weapons | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons|
 |Waystones| https://www.curseforge.com/minecraft/mc-mods/waystones|
-### Extra mods
+|Serene seasons|https://www.curseforge.com/minecraft/mc-mods/serene-seasons|
+|Create|https://www.curseforge.com/minecraft/mc-mods/create|
+|Flywheel|https://www.curseforge.com/minecraft/mc-mods/flywheel|
+|Blood magic|https://www.curseforge.com/minecraft/mc-mods/blood-magic|
+|Patchouli|https://www.curseforge.com/minecraft/mc-mods/patchouli|
+|Grimoire of Gaia|https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia|
 
-   * https://www.curseforge.com/minecraft/mc-mods/serene-seasons
 
-   * https://www.curseforge.com/minecraft/mc-mods/create 
-      * ***Necesita:*** https://www.curseforge.com/minecraft/mc-mods/flywheel
 
-   * https://www.curseforge.com/minecraft/mc-mods/blood-magic 
-      * ***Necesita:*** https://www.curseforge.com/minecraft/mc-mods/patchouli
 
-   * https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia
+
