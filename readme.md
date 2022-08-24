@@ -25,9 +25,11 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Launcher de Minecraft.
 ## Consejos 💖:
 
-Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java
+* __Si tienes problemas de ejecucion de los mods__ elima los mods en la carpeta ```.minecraft/mods``` y vuelve a descargarlos, copiarlos y pegarlos en la carpeta ```.minecraft/mods```. **NEW INSTRUCTION❗**.
 
-Link de descarga: https://www.java.com/es/download/ie_manual.jsp
+ * Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java Link de descarga: https://www.java.com/es/download/ie_manual.jsp
+
+ 
 
 ## Lista de MODS
 
@@ -35,7 +37,11 @@ Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando
 
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
 | :-------- | :-------- |
-|Inventory Sorter **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
+|better-combat-by-daedelus **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/3949038|
+|corail-tombstone **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/files/3910086|
+|cloth-config **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/3782776|
+|playeranimator **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/playeranimator/files/3947129|
+|Inventory Sorter|https://www.curseforge.com/minecraft/mc-mods/inventory-sorter|
 |Alex's Mobs| https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 |Citadel| https://www.curseforge.com/minecraft/mc-mods/citadel|
 |Structory| https://www.curseforge.com/minecraft/mc-mods/structory|
