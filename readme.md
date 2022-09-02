@@ -25,7 +25,7 @@ https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 Dejé el ejecutable ```SKlauncher 3-beta.21.exe``` si es que no tienes un Launcher de Minecraft.
 ## Consejos 💖:
 
-* __Si tienes problemas de ejecucion de los mods__ elima los mods en la carpeta ```.minecraft/mods``` y vuelve a descargarlos, copiarlos y pegarlos en la carpeta ```.minecraft/mods```. **NEW INSTRUCTION❗**.
+* __Si tienes problemas de ejecucion de los mods__ elima los mods en la carpeta ```.minecraft/mods``` y vuelve a descargarlos, copiarlos y pegarlos en la carpeta ```.minecraft/mods```. **IMPORTANTE❗**.
 
  * Si no puedes ejecutar los .JAR fijate que tengas instalado el JDK de Java Link de descarga: https://www.java.com/es/download/ie_manual.jsp
 
