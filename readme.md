@@ -37,9 +37,10 @@ Si solo necesitas actualizar un mod aquí está la lista, estaremos actualizando
 
 | ***---Nombre---*** | ***---Link de la descripcion---*** |
 | :-------- | :-------- |
-|Dual Riders **NEW❗**|https://www.curseforge.com/minecraft/mc-mods/dual-riders/files/3783157|
-|Sound Physics Remastered **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/3775919|
-|Simple Voice Chat **NEW❗** |https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3951706|
+|Storage Drawers  **NEW❗**|https://www.curseforge.com/minecraft/mc-mods/storage-drawers/download/3807626|
+|Dual Riders |https://www.curseforge.com/minecraft/mc-mods/dual-riders/files/3783157|
+|Sound Physics Remastered  |https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/3775919|
+|Simple Voice Chat|https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3951706|
 |better-combat-by-daedelus  |https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/3949038|
 |corail-tombstone |https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/files/3910086|
 |cloth-config  |https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/3782776|
