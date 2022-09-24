@@ -8,15 +8,11 @@ Ir a Code/Codigo y descargar el .ZIP
 https://github.com/sauta/Paquete-de-MOD/archive/refs/heads/master.zip
 ## Iniciar Forge e instalar Mods 🤙
 ------------------------------
- * Ejecutar ```forge-1.18.2-40.1.68-installer``` y seleccionar **Install Client**
+ * Paso 1: Ejecutar ```forge-1.18.2-40.1.68-installer``` y seleccionar **Install Client**
 
- * Copiar archivos de la carpeta ```/Mods``` que acabas de desargar.
+ * Paso 2: Ejecutar ```install_mods.bat```.
 
- * Luego apretar el atajo de teclado  ```wind + R``` y escribes ```%appdata%```
-
- * Te dirijes a la carpeta ```.minecraft``` y pega los archivos copiados a la carpeta ```.minecraft/mods```.
-
- * Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y reemplazalos por los nuevos.
+ * Paso 3: Si ya tienes archivos dentro de la carpeta ```/mods``` eliminalos y veulve a ejecutar el paso 2.
 
 ------------------------------
 ## Poner Shaders 🤙
